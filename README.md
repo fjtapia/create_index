@@ -172,23 +172,23 @@ We see it with the following example
 
 The result that appears on the screen is
 
-Printing sorted by number
-1 - Peter - 85.6
-2 - Hanna - 63.4
-3 - John - 83.6
-4 - Elsa - 56.6
+	Printing sorted by number
+	1 - Peter - 85.6
+	2 - Hanna - 63.4
+	3 - John - 83.6
+	4 - Elsa - 56.6
 
-Printing sorted by name
-4 - Elsa - 56.6
-2 - Hanna - 63.4
-3 - John - 83.6
-1 - Peter - 85.6
+	Printing sorted by name
+	4 - Elsa - 56.6
+	2 - Hanna - 63.4
+	3 - John - 83.6
+	1 - Peter - 85.6
 
-Printing sorted by weight
-4 - Elsa - 56.6
-2 - Hanna - 63.4
-3 - John - 83.6
-1 - Peter - 85.6
+	Printing sorted by weight
+	4 - Elsa - 56.6
+	2 - Hanna - 63.4
+	3 - John - 83.6
+	1 - Peter - 85.6
 
 
 
