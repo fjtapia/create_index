@@ -52,7 +52,9 @@ The correct types are obtained by two functions **iter_index <iter_t>** and **co
 ***The other 3 parameters are identical to those used in direct sorting.***
 
 **it_begin :** The third parameter the iter_t to the first element of the data set.
+
 **it_end :** The fourth parameter is the iter_t to the element after the last.
+
 **comp :** The fifth parameter is the object with which we are going to compare
 
 
